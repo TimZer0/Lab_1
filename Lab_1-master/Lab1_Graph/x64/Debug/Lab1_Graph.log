@@ -1,0 +1,4 @@
+﻿  Lab1_Graph.cpp
+F:\Lab1_Graph\Lab1_Graph\Lab1_Graph.cpp(91,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+F:\Lab1_Graph\Lab1_Graph\Lab1_Graph.cpp(98,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab1_Graph.vcxproj -> F:\Lab1_Graph\x64\Debug\Lab1_Graph.exe

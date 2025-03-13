@@ -1,0 +1,25 @@
+﻿  Lab1_Graph.cpp
+C:\Users\User\Downloads\Lab_1-master\Lab1_Graph\Lab1_Graph.cpp(90,26): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\User\Downloads\Lab_1-master\Lab1_Graph\Lab1_Graph.cpp(90,21): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\User\Downloads\Lab_1-master\Lab1_Graph\Lab1_Graph.cpp(90,16): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\User\Downloads\Lab_1-master\Lab1_Graph\Lab1_Graph.cpp(91,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     Создается библиотека C:\Users\User\Downloads\Lab_1-master\x64\Debug\Lab1_Graph.lib и объект C:\Users\User\Downloads\Lab_1-master\x64\Debug\Lab1_Graph.exp
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBindBuffer", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBufferData", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGenBuffers", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewAttachShader", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCompileShader", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCreateProgram", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCreateShader", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewEnableVertexAttribArray", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGetUniformLocation", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewLinkProgram", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewShaderSource", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewUniform4f", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewUseProgram", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewVertexAttribPointer", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBindVertexArray", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGenVertexArrays", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "Lab1_Graph.obj" в функции "main".
+  Lab1_Graph.vcxproj -> C:\Users\User\Downloads\Lab_1-master\x64\Debug\Lab1_Graph.exe
