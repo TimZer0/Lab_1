@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|E:\\Lab_6\\Lab1_Graph\\Lab1_Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|solutionrelative:Lab1_Graph\\Lab1_Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|E:\\Lab_6\\Lab1_Graph\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|solutionrelative:Lab1_Graph\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab_6\\Lab1_Graph\\fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_Graph\\fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|E:\\Lab_6\\Lab1_Graph\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB64B026-2C7D-41D4-8C3A-B69301F32265}|Lab1_Graph\\Lab1_Graph.vcxproj|solutionrelative:Lab1_Graph\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab_6\\Lab1_Graph\\vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_Graph\\vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab_6\\Lab1_Graph\\shader_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_Graph\\shader_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_Graph.cpp",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\Lab1_Graph.cpp",
+              "RelativeDocumentMoniker": "Lab1_Graph\\Lab1_Graph.cpp",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\Lab1_Graph.cpp",
+              "RelativeToolTip": "Lab1_Graph\\Lab1_Graph.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T00:21:23.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.h",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\Model.h",
+              "RelativeDocumentMoniker": "Lab1_Graph\\Model.h",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\Model.h",
+              "RelativeToolTip": "Lab1_Graph\\Model.h",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwFwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T00:34:11.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fragment_shader.glsl",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\fragment_shader.glsl",
+              "RelativeDocumentMoniker": "Lab1_Graph\\fragment_shader.glsl",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\fragment_shader.glsl",
+              "RelativeToolTip": "Lab1_Graph\\fragment_shader.glsl",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T00:13:50.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesh.h",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\Mesh.h",
+              "RelativeDocumentMoniker": "Lab1_Graph\\Mesh.h",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\Mesh.h",
+              "RelativeToolTip": "Lab1_Graph\\Mesh.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T00:33:33.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vertex_shader.glsl",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\vertex_shader.glsl",
+              "RelativeDocumentMoniker": "Lab1_Graph\\vertex_shader.glsl",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\vertex_shader.glsl",
+              "RelativeToolTip": "Lab1_Graph\\vertex_shader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T00:13:44.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shader_lib.h",
+              "DocumentMoniker": "E:\\Lab_6\\Lab1_Graph\\shader_lib.h",
+              "RelativeDocumentMoniker": "Lab1_Graph\\shader_lib.h",
+              "ToolTip": "E:\\Lab_6\\Lab1_Graph\\shader_lib.h",
+              "RelativeToolTip": "Lab1_Graph\\shader_lib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T00:52:24.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
